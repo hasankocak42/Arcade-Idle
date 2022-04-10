@@ -25,7 +25,7 @@ public class ArcherCreator : MonoBehaviour
     public bool _isneedarcher = true;
     private int i = 1;
     private float _time = 0;
-    private float _delay = 0.2f;
+    private float _delay = 0.05f;
 
     [SerializeField] private TextMeshProUGUI _textwood;
     [SerializeField] private TextMeshProUGUI _textgold;
